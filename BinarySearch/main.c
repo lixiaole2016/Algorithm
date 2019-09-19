@@ -1,30 +1,16 @@
-//
-// Created by lixia on 2019/9/12/005.
-//
-
 #include <stdio.h>
-#include <stdlib.h>
 #include <time.h>
+#include <stdlib.h>
 
 #define MinNumber 1
 #define MaxNumber 200
 #define ArrayLength 50
-int b[ArrayLength];
 
 void randomArray(int a[], int n, int s, int t) {
     int i;
     for (int i = 0; i < n; i++) {
         a[i] = rand() % t + s;
     }
-}
-
-void displayArray(char s[], int a[], int n) {
-    puts(s);
-    int i;
-    for (i = 0; i < n - 1; i++) {
-        printf("%d,", a[i]);
-    }
-    printf("%d\n", a[n - 1]);
 }
 
 void Swap(int *a, int *b) {
@@ -47,6 +33,15 @@ int Partition(int a[], int p, int r) {
     return j;
 }
 
+void displayArray(char s[], int a[], int n) {
+    puts(s);
+    int i;
+    for (i = 0; i < n - 1; i++) {
+        printf("%d,", a[i]);
+    }
+    printf("%d\n", a[n - 1]);
+}
+
 void QuickSort(int a[], int p, int r) {
     if (p < r) {
         int q = Partition(a, p, r);
@@ -55,13 +50,26 @@ void QuickSort(int a[], int p, int r) {
     }
 }
 
+int BinarySearch(const int b[], int search_key, int low, int high) {
+    if (low > high)
+        return -1;
+    int mid = low + (high - low) / 2;
+    if (search_key == b[mid])
+        return mid;
+    else if (search_key < b[mid])
+        return BinarySearch(b, search_key, low, mid - 1);
+    else
+        return BinarySearch(b, search_key, mid + 1, high);
+}
+
 
 int main() {
     srand(time(0));
-    int a[ArrayLength];
+    int a[ArrayLength],x;
     randomArray(a, ArrayLength, MinNumber, MaxNumber);
-    displayArray("原始数组:", a, ArrayLength);
     QuickSort(a, 0, ArrayLength);
-    displayArray("排序后数组:", a, ArrayLength);
+    displayArray("", a, ArrayLength);
+    scanf("%d",&x);
+    printf("\n%d",BinarySearch(a,x,0,ArrayLength)) ;
     return 0;
 }
