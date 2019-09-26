@@ -12,17 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65fbd3b6-60ad-4cd8-b496-ac5ab5633632" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lightdistribution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lightdistribution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightdistribution/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lightdistribution/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quicksort.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quicksort.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quicksort.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quicksort.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quicksort.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quicksort.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/quicksort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/quicksort.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +68,7 @@
       <workItem from="1568291843509" duration="89000" />
       <workItem from="1568291986424" duration="252000" />
       <workItem from="1568871768289" duration="1280000" />
-      <workItem from="1568873159651" duration="261000" />
+      <workItem from="1568873159651" duration="734000" />
     </task>
     <servers />
   </component>
