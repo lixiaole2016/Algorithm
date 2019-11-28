@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/c/lightneighbor/main.c
+stdio.h
+-
+math.h
+-
+string.h
+-
+time.h
+-
+stdlib.h
+-
+

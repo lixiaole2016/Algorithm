@@ -8,7 +8,7 @@
 #define width 10  //width of the room
 #define hight 5   //hight the room
 #define I 1 //identical
-#define N 1  //number of the LED
+#define N 4  //number of the LED
 #define DEBUG
 
 int LED[width + 1][length + 1] = {0};   //store LED location
