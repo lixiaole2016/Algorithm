@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.14)
-project(bianjijuli C)
+cmake_minimum_required(VERSION 3.15)
+project(bianjijuli)
 
-set(CMAKE_C_STANDARD 99)
+set(CMAKE_CXX_STANDARD 14)
 
-add_executable(bianjijuli main.c)
+add_executable(bianjijuli main.cpp)

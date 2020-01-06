@@ -12,19 +12,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e007a0d-8e21-4a66-8de5-3d6d6fbeac30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BinarySearch/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quicksort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lightdistribution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lightdistribution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/BinarySearch.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/BinarySearch.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinarySearch/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quicksort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/main.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/CMakeFiles/quicksort.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quicksort/cmake-build-debug/quicksort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/cmake-build-debug/quicksort.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quicksort/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../quicksort/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/CMakeFiles/test.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/cmake-build-debug/test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../test/cmake-build-debug/test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../test/main.cpp" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,22 +74,15 @@
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1QPeIcAMGqcYxm9Yr0voY5XtPLj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="untitled" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="untitled">
@@ -63,6 +90,18 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,6 +122,7 @@
       <workItem from="1568260192623" duration="1213000" />
       <workItem from="1568344512273" duration="1192000" />
       <workItem from="1568871797574" duration="726000" />
+      <workItem from="1577795753815" duration="13000" />
     </task>
     <servers />
   </component>
@@ -94,7 +134,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

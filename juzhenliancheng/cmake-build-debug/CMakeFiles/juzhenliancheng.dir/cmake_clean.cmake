@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/juzhenliancheng.dir/main.c.obj"
-  "juzhenliancheng.pdb"
   "juzhenliancheng.exe"
   "juzhenliancheng.exe.manifest"
+  "juzhenliancheng.pdb"
   "libjuzhenliancheng.dll.a"
 )
 

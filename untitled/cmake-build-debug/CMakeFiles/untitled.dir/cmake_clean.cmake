@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/main.c.obj"
-  "untitled.pdb"
+  "libuntitled.dll.a"
   "untitled.exe"
   "untitled.exe.manifest"
-  "libuntitled.dll.a"
+  "untitled.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

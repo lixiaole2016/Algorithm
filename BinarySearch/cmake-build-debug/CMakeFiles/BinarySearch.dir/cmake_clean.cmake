@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BinarySearch.dir/main.c.obj"
-  "BinarySearch.pdb"
   "BinarySearch.exe"
   "BinarySearch.exe.manifest"
+  "BinarySearch.pdb"
+  "CMakeFiles/BinarySearch.dir/main.c.obj"
   "libBinarySearch.dll.a"
 )
 

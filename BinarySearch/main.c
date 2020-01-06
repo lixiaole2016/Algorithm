@@ -50,26 +50,41 @@ void QuickSort(int a[], int p, int r) {
     }
 }
 
-int BinarySearch(const int b[], int search_key, int low, int high) {
-    if (low > high)
-        return -1;
+int newBinarySearch(const int b[], int search_key, int low, int high) {
+    if (low > high) {
+        printf("%d , %d", high, low);
+        return 0;
+    }
     int mid = low + (high - low) / 2;
-    if (search_key == b[mid])
+    if (search_key == b[mid]) {
+        printf("%d , %d", high, low);
+        return 0;
+    } else if (search_key < b[mid])
+        return newBinarySearch(b, search_key, low, mid - 1);
+    else
+        return newBinarySearch(b, search_key, mid + 1, high);
+}
+
+int BinarySearch(const int b[], int search_key, int low, int high) {
+    if (low > high) {
+        return -1;
+    }
+    int mid = low + (high - low) / 2;
+    if (search_key == b[mid]) {
         return mid;
-    else if (search_key < b[mid])
+    } else if (search_key < b[mid])
         return BinarySearch(b, search_key, low, mid - 1);
     else
         return BinarySearch(b, search_key, mid + 1, high);
 }
 
-
 int main() {
     srand(time(0));
-    int a[ArrayLength],x;
+    int a[ArrayLength], x;
     randomArray(a, ArrayLength, MinNumber, MaxNumber);
     QuickSort(a, 0, ArrayLength);
     displayArray("", a, ArrayLength);
-    scanf("%d",&x);
-    printf("\n%d",BinarySearch(a,x,0,ArrayLength)) ;
+    scanf("%d", &x);
+    printf("%d", BinarySearch(a, x, 0, ArrayLength));
     return 0;
 }

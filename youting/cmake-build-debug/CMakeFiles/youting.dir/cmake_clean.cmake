@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/youting.dir/main.c.obj"
-  "youting.pdb"
+  "libyouting.dll.a"
   "youting.exe"
   "youting.exe.manifest"
-  "libyouting.dll.a"
+  "youting.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

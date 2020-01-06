@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
+  "CXX"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "D:/code/c/bianjijuli/main.c" "D:/code/c/bianjijuli/cmake-build-debug/CMakeFiles/bianjijuli.dir/main.c.obj"
+set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/code/c/bianjijuli/main.cpp" "D:/code/c/bianjijuli/cmake-build-debug/CMakeFiles/bianjijuli.dir/main.cpp.obj"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.

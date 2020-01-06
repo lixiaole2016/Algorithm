@@ -33,9 +33,15 @@ void Swap(int *a, int *b) {
     *b = temp;
 }
 
+//生成i到j的随机整数
+int random(int i, int j) {
+    return rand() % (j - i) + i;
+}
+
 int Partition(int a[], int p, int r) {
     int i = p, j = r + 1;
-    int x = a[p];
+    int x = a[random(p, r)];
+    //将所有比x大的数移动到x右边，将所有比x小的数移动到x左边
     while (1) {
         while (a[++i] < x && i < r);
         while (a[--j] > x);
@@ -46,6 +52,7 @@ int Partition(int a[], int p, int r) {
     a[j] = x;
     return j;
 }
+
 
 void QuickSort(int a[], int p, int r) {
     if (p < r) {

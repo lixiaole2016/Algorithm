@@ -1,13 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 #define QUEEN 5
 #define INITIAL -10000
 
 int a[QUEEN];
 
-int valid(int row, int col)    //判断第row行第col列是否可以放置皇后
+int find(int row, int col)    //判断第row行第col列是否可以放置皇后
 {
     int i;
     for (i = 0; i < QUEEN; ++i)  //对棋盘进行扫描
@@ -18,7 +17,7 @@ int valid(int row, int col)    //判断第row行第col列是否可以放置皇�
     return 1;
 }
 
-void printresult() {
+void display() {
     int i, j;
     for (i = 0; i < QUEEN; ++i) {
         for (j = 0; j < QUEEN; ++j) {
@@ -40,7 +39,7 @@ void queen() {
     int i = 0, j = 0;
     while (i < QUEEN) {
         while (j < QUEEN) {
-            if (valid(i, j)) {
+            if (find(i, j)) {
                 a[i] = j;
                 j = 0;
                 break;
@@ -60,7 +59,7 @@ void queen() {
         }
         if (i == QUEEN - 1) {
             printf("answer %d : \n", ++n);
-            printresult();
+            display();
             j = a[i] + 1;
             a[i] = INITIAL;
             continue;
@@ -69,7 +68,7 @@ void queen() {
     }
 }
 
-int main(void) {
+int main() {
     int *p;
     for (p = a; p < a + QUEEN; ++p) {
         *p = INITIAL;

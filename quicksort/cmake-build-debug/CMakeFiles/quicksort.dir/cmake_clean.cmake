@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/quicksort.dir/main.c.obj"
-  "quicksort.pdb"
+  "libquicksort.dll.a"
   "quicksort.exe"
   "quicksort.exe.manifest"
-  "libquicksort.dll.a"
+  "quicksort.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
